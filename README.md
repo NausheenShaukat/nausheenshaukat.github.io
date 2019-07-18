@@ -2,4 +2,4 @@
 ## Portfolio
 
 ## Business Cards
-<img src=images/NS-card.jpg>
+![Business Card](images/NS-card.jpg)
