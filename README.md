@@ -2,4 +2,4 @@
 ## Portfolio
 
 ## Business Cards
-<img src="images/NS-card.jpg">
+!<img src="images/NS-card.jpg">
